@@ -13,6 +13,7 @@ body
   overflow-x: hidden;
   background: linear-gradient(#2b1055,#1c0522);
 }
+
 header
 {
   position: absolute;
@@ -111,4 +112,11 @@ section img
 {
   font-size: 1.5em;
   color: #fff;
+}
+
+ol
+{
+  color: #fff;
+  font-size: 1.5em;
+  padding-left: 100px;
 }
